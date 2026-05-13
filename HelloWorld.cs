@@ -1,6 +1,7 @@
-Class Program{
-  Public staic void Main()
+class Program
 {
-  console.WriteLine("This is sample Program");
-}
+  static void Main()
+  {
+    System.Console.WriteLine("Hello Copilot");
+  }
 }
